@@ -48,7 +48,7 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"HpkAdmob":
 			{
