@@ -1,0 +1,75 @@
+{
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
+			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
+		},
+
+		"Fan":
+		{
+			"BannerId"          : "Your Id Banner Fan",
+			"InterstitialId"    : "Your Id Interstitial Fan",
+			"RewardId"          : "Your Id Reward Fan"
+		}, 
+
+		"Applovin":
+		{
+			"SdkKey"            : "",
+			"BannerId"          : "",
+			"InterstitialId"    : "",
+			"RewardId"          : ""
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "4840928",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"Key":
+			{
+				"ADMOB"     : "Backup Applovin Backup UnityAds",
+				"FAN"       : "Backup Applovin Backup UnityAds, | Warning : Ukuran lebar banner FAN cukup lebar sampai samping device, jadi akan menggaggu user(kecuali tidak ada aktivitas UI)",
+				"APPLOVIN"  : "Untuk sementara tidak terpakai",
+				"UNITY"     : "No Backup"
+			},
+
+			"Banner"            : "ADMOB",
+			"Interstitial"      : "ADMOB",
+			"Reward"            : "ADMOB",
+
+			"NoAdsMode"         : false,
+
+			"HpkAdmob":
+			{
+				"HPK1"      : "Donate",
+				"HPK2"      : "Crypto",
+				"HPK3"      : "Money",
+				"HPK4"      : "Finance",
+				"HPK5"      : "Install"
+			}
+		},
+
+		"AnotherApps":
+		{
+			"Title"             : "Your Title",
+			"Short"             : "Your Short",
+			"Icon"              : "",
+			"Banner"            : "",
+			"Message"           : "Your Message",
+			"Url"               : "Url Apps"
+		}
+
+	}
+
+}
