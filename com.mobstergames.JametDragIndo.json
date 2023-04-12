@@ -52,11 +52,11 @@
 
 			"HpkAdmob":
 			{
-				"HPK1"      : "Ramadhan",
-				"HPK2"      : "Romadon",
-				"HPK3"      : "Puasa",
-				"HPK4"      : "Uang",
-				"HPK5"      : "Takjil"
+				"HPK1"      : "Finance",
+				"HPK2"      : "Donate",
+				"HPK3"      : "Money",
+				"HPK4"      : "Crypto",
+				"HPK5"      : "Install"
 			}
 		},
 
