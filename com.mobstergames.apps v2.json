@@ -63,7 +63,7 @@
 			"Banner"            : "Url Banner",
 			"Url"               : "Url Apps",
 
-			"Time"              : 0.5f,
+			"Time"              : 0.5,
 			"Interval"          : 4
 		}
 
