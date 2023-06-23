@@ -1,0 +1,72 @@
+{
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
+			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
+		},
+
+		"Applovin":
+		{
+			"SdkKey"            : "",
+			"BannerId"          : "",
+			"InterstitialId"    : "",
+			"RewardId"          : ""
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "4840928",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"Key":
+			{
+				"ADMOB"     : "Backup Applovin Backup UnityAds",
+				"APPLOVIN"  : "Backup UnityAds",
+				"UNITY"     : "No Backup"
+			},
+
+			"Banner"            : "ADMOB",
+			"Interstitial"      : "ADMOB",
+			"Reward"            : "ADMOB",
+
+			"TestAds"           : true,
+			"NoAdsMode"         : false,
+
+			"HpkAdmob":
+			{
+				"HPK1"      : "Donate",
+				"HPK2"      : "Crypto",
+				"HPK3"      : "Money",
+				"HPK4"      : "Finance",
+				"HPK5"      : "Install"
+			}
+		},
+
+		"CrossPromote":
+		{
+			"Title"             : "Your Title",
+			"Short"             : "Your Short",
+			"Message"           : "Your Message",
+
+			"Icon"              : "Url Icon",
+			"Banner"            : "Url Banner",
+			"Url"               : "Url Apps",
+
+			"Time"              : 0.5f,
+			"Interval"          : 4
+		}
+
+	}
+
+}
