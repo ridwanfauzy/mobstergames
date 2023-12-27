@@ -3,9 +3,9 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
-			"RewardId"          : ""
+			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
+			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
 		},
 
 		"Applovin":
@@ -18,7 +18,7 @@
 
 		"UnityAds":
 		{
-			"GameId"            : "5455686",
+			"GameId"            : "4840928",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
@@ -30,26 +30,26 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
 			{
 				"First"         : "ADMOB",
 				"Backup1"       : "UNITY",
-				"Backup2"       : "APPLOVIN"
+				"Backup2"       : "ADMOB"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
 				"Backup1"       : "UNITY",
-				"Backup2"       : "APPLOVIN"
+				"Backup2"       : "ADMOB"
 			},
 			"Reward":
 			{
 				"First"         : "ADMOB",
 				"Backup1"       : "UNITY",
-				"Backup2"       : "APPLOVIN"
+				"Backup2"       : "ADMOB"
 			},
 
 			"UseTime" :
@@ -77,7 +77,7 @@
 
 		"MoreApps":
 		{
-			"Url"               : "https://play.google.com/store/apps/developer?id=Coloring+book+Games&hl=en_US"
+			"Url"               : "https://play.google.com/store/apps/dev?id=8724487125774676164"
 		},
 
 		"CrossPromote":
