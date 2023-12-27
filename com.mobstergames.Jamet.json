@@ -1,0 +1,99 @@
+{
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
+			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
+			"RewardId"          : ""
+		},
+
+		"Applovin":
+		{
+			"SdkKey"            : "u4pMoTgxaTIoEydcaNLk_kpxRxidkCblikeAm9nE9DvhtoLUnQUaTztUpxZdAfPeXihgx6kxTEa1GZskV64763",
+			"BannerId"          : "2a145eebb0b036e7",
+			"InterstitialId"    : "f7aa8dc27596a693",
+			"RewardId"          : ""
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "5455686",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"TestAds"           : false,
+			"NoAdsMode"         : true,
+
+			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
+			"Banner":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Interstitial":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Reward":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : false,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 0.5
+			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
+		"MoreApps":
+		{
+			"Url"               : "https://play.google.com/store/apps/developer?id=Coloring+book+Games&hl=en_US"
+		},
+
+		"CrossPromote":
+		{
+			"Version"           : 1,
+
+
+			"Title"             : "",
+			"Short"             : "",
+			"Message"           : "",
+
+			"Icon"              : "",
+			"Banner"            : "",
+			"Url"               : "",
+
+			"Time"              : 30
+		}	
+	}
+}
