@@ -10,10 +10,10 @@
 
 		"Applovin":
 		{
-			"SdkKey"            : "u4pMoTgxaTIoEydcaNLk_kpxRxidkCblikeAm9nE9DvhtoLUnQUaTztUpxZdAfPeXihgx6kxTEa1GZskV64763",
-			"BannerId"          : "2a145eebb0b036e7",
-			"InterstitialId"    : "f7aa8dc27596a693",
-			"RewardId"          : ""
+			"SdkKey"            : "pB52eKs6s0q30NoKK71eVUZh_7hvZtBvuCnNF0rFs1SxSUHw_9NzPdpcMoSTJDJ446vrBNugARLaNAcuJgegug",
+			"BannerId"          : "37ec3a0bc91c1c29",
+			"InterstitialId"    : "8fa7b43e943f6446",
+			"RewardId"          : "7c90ecad5daa3b05"
 		},
 
 		"UnityAds":
@@ -36,20 +36,20 @@
 			"Banner":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "UNITY",
-				"Backup2"       : "ADMOB"
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "UNITY",
-				"Backup2"       : "ADMOB"
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
 			},
 			"Reward":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "UNITY",
-				"Backup2"       : "ADMOB"
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
 			},
 
 			"UseTime" :
