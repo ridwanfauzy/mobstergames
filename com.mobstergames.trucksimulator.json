@@ -18,7 +18,7 @@
 
 		"UnityAds":
 		{
-			"GameId"            : "4840928",
+			"GameId"            : "5084387",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
@@ -30,7 +30,7 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : false,
+			"NoAdsMode"         : true,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
