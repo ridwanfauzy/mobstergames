@@ -3,9 +3,9 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
-			"RewardId"          : ""
+			"BannerId"          : "ca-app-pub-8575204904100554/4983147607",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/4296751898",
+			"RewardId"          : "ca-app-pub-8575204904100554/2983670224"
 		},
 
 		"Applovin":
@@ -18,7 +18,7 @@
 
 		"UnityAds":
 		{
-			"GameId"            : "5523357",
+			"GameId"            : "4840928",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
@@ -30,7 +30,7 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
