@@ -3,9 +3,9 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
-			"RewardId"          : ""
+			"BannerId"          : "ca-app-pub-8575204904100554/2756358992",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/9380699793",
+			"RewardId"          : "ca-app-pub-8575204904100554/8946362829"
 		},
 
 		"Applovin":
@@ -18,7 +18,7 @@
 
 		"UnityAds":
 		{
-			"GameId"            : "5523357",
+			"GameId"            : "4192810",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
