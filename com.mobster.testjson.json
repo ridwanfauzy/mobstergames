@@ -20,7 +20,7 @@
 		{
 			"GameId"            : "4192810",
 			"BannerId"          : "Banner_Android",
-			"InterstitialId"    : "Interstitial_Android",
+			"InterstitialId"    : "Interstitial_Androidx",
 			"RewardId"          : "Rewarded_Android"
 		}			
 	},
