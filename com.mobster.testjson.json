@@ -41,9 +41,9 @@
 
 			"Interstitial":
 			{
-				"First"         : "APPLOVIN",
+				"First"         : "UNITY",
 				"Backup1"       : "ADMOB",
-				"Backup2"       : "UNITY"
+				"Backup2"       : "APPLOVIN"
 			},
 
 			"Reward":
