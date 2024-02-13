@@ -34,8 +34,8 @@
 
 			"Banner":
 			{
-				"First"         : "APPLOVIN",
-				"Backup1"       : "ADMOB",
+				"First"         : "ADMOB",
+				"Backup1"       : "APPLOVIN",
 				"Backup2"       : "UNITY"
 			},
 
