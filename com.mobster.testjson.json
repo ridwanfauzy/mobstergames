@@ -1,0 +1,99 @@
+{
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-3940256099942544/6300978111fgs",
+			"InterstitialId"    : "ca-app-pub-3940256099942544/1033173712sdfgs",
+			"RewardId"          : "ca-app-pub-3940256099942544/5224354917sdfgs"
+		},
+
+		"Applovin":
+		{
+			"SdkKey"            : "pB52eKs6s0q30NoKK71eVUZh_7hvZtBvuCnNF0rFs1SxSUHw_9NzPdpcMoSTJDJ446vrBNugARLaNAcuJgegug",
+			"BannerId"          : "37ec3a0bc91c1c29",
+			"InterstitialId"    : "8fa7b43e943f6446",
+			"RewardId"          : "7c90ecad5daa3b05"
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "4192810",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"TestAds"           : true,
+			"NoAdsMode"         : false,
+
+			"Banner":
+			{
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
+				"Backup2"       : "UNITY"
+			},
+
+			"Interstitial":
+			{
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
+				"Backup2"       : "UNITY"
+			},
+
+			"Reward":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : false,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 2
+			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+		
+		"MoreApps":
+		{
+			"Url"               : "Isi dengan Url More app godev"
+		},
+
+		"CrossPromote":
+		{
+			"Version"           : 1,
+			
+			"Title"             : "Jamet : Drag Indonesia",
+			"Short"             : "Jadilah pengemudi motor drag terhebat di muka bumi ini",
+			"Message"           : "Download Sekarang Dengan Tekan Tombol di bawah",
+
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1OzZW9JeVxkcnTiA5Z-xlrAdmmqmGhzwR",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1PdotW3Qw8pGKTEHA4kqduYasrWBopZ8h",
+			"Url"               : "Url Apps",
+
+			"Time"              : 10
+		}	
+	}
+}
