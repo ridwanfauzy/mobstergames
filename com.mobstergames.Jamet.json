@@ -85,13 +85,13 @@
 			"Version"           : 1,
 
 
-			"Title"             : "",
-			"Short"             : "",
-			"Message"           : "",
+			"Title"             : "Hill Climb : Delivery Truck",
+			"Short"             : "Come on, drive your truck now",
+			"Message"           : "Click install below to download this game",
 
-			"Icon"              : "",
-			"Banner"            : "",
-			"Url"               : "",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1rrqfAfefj56G00i2Jk1QBk9Tk4-gHD7G",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1eqFEGxrai_VKPtzqHO0LSB1jDUT6W2zu",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.MobsterGame.TruckDelivery",
 
 			"Time"              : 30
 		}	
