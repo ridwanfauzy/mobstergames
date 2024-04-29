@@ -47,9 +47,9 @@
 			},
 			"Reward":
 			{
-				"First"         : "UNITY",
+				"First"         : "ADMOB",
 				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "ADMOB"
+				"Backup2"       : "UNITY"
 			},
 
 			"UseTime" :
