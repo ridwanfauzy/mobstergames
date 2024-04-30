@@ -68,11 +68,11 @@
 
 		"HpkAdmob":
 		{
-			"HPK1"              : "Donate",
-			"HPK2"              : "Crypto",
-			"HPK3"              : "Money",
-			"HPK4"              : "Finance",
-			"HPK5"              : "Install"
+			"HPK1"              : "",
+			"HPK2"              : "",
+			"HPK3"              : "",
+			"HPK4"              : "",
+			"HPK5"              : ""
 		},
 
 		"MoreApps":
