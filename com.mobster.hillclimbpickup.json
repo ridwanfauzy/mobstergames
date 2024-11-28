@@ -3,8 +3,8 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
+			"BannerId"          : "ca-app-pub-8575204904100554/7197089198",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/5533966814",
 			"RewardId"          : ""
 		},
 
@@ -30,7 +30,7 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
