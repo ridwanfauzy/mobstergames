@@ -31,7 +31,7 @@
 		{
 			"TestAds"           : false,
 			"NoAdsMode"         : false,
-			
+
 			"Banner":
 			{
 				"First"         : "ADMOB",
@@ -65,14 +65,23 @@
 			}
 		},
 
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
 		"MoreApps":
 		{
-			"Url"               : "https://play.google.com/store/apps/developer?id=Coloring+book+Games&hl=en_US"
+			"Url"               : "https://play.google.com/store/apps/dev?id=8724487125774676164"
 		},
 
 		"CrossPromote":
 		{
-			"Version"           : 0,
+			"Version"           : 1,
 
 
 			"Title"             : "",
