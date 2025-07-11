@@ -31,8 +31,7 @@
 		{
 			"TestAds"           : false,
 			"NoAdsMode"         : false,
-
-			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
+			
 			"Banner":
 			{
 				"First"         : "ADMOB",
@@ -64,15 +63,6 @@
 				"Interstitial"  : 0.5,
 				"Reward"        : 0.5
 			}
-		},
-
-		"HpkAdmob":
-		{
-			"HPK1"              : "Donate",
-			"HPK2"              : "Crypto",
-			"HPK3"              : "Money",
-			"HPK4"              : "Finance",
-			"HPK5"              : "Install"
 		},
 
 		"MoreApps":
