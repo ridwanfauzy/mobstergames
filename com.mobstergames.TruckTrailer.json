@@ -29,7 +29,7 @@
 	{
 		"Ads":
 		{
-			"TestAds"           : false,
+			"TestAds"           : true,
 			"NoAdsMode"         : true,
 
 			"Banner":
