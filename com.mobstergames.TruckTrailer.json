@@ -1,0 +1,98 @@
+{
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-8575204904100554/2756358992",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/9380699793",
+			"RewardId"          : "ca-app-pub-8575204904100554/8946362829"
+		},
+
+		"Applovin":
+		{
+			"SdkKey"            : "pB52eKs6s0q30NoKK71eVUZh_7hvZtBvuCnNF0rFs1SxSUHw_9NzPdpcMoSTJDJ446vrBNugARLaNAcuJgegug",
+			"BannerId"          : "37ec3a0bc91c1c29",
+			"InterstitialId"    : "8fa7b43e943f6446",
+			"RewardId"          : "7c90ecad5daa3b05"
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "4192810",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"TestAds"           : false,
+			"NoAdsMode"         : false,
+
+			"Banner":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Interstitial":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Reward":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : false,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 0.5
+			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
+		"MoreApps":
+		{
+			"Url"               : "https://play.google.com/store/apps/dev?id=8724487125774676164"
+		},
+
+		"CrossPromote":
+		{
+			"Version"           : 1,
+
+
+			"Title"             : "",
+			"Short"             : "",
+			"Message"           : "",
+
+			"Icon"              : "",
+			"Banner"            : "",
+			"Url"               : "",
+
+			"Time"              : 30
+		}	
+	}
+}
