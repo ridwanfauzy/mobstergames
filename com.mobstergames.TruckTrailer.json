@@ -29,8 +29,8 @@
 	{
 		"Ads":
 		{
-			"TestAds"           : true,
-			"NoAdsMode"         : false,
+			"TestAds"           : false,
+			"NoAdsMode"         : true,
 
 			"Banner":
 			{
