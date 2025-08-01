@@ -4,7 +4,7 @@
 		"Admob":
 		{
 			"BannerId"          : "ca-app-pub-8575204904100554/2756358992",
-			"InterstitialId"    : "ca-app-pub-8575204904100554/9380699793",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/3786195512",
 			"RewardId"          : "ca-app-pub-8575204904100554/8946362829"
 		},
 
@@ -30,7 +30,7 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"Banner":
 			{
